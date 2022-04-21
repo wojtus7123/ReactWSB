@@ -1,16 +1,16 @@
 # Dokumentacja
 
-Index.js wyświetla komponent App.js
-W App.js dodany jest styl, który zmienia kolor tła i centruje obraz
-App.js wyświetla komponent MyComponent.js
-MyComponent.js wyświetla obraz dla dwóch przypadków:
+Index.js wyświetla komponent App.js\
+W App.js dodany jest styl, który zmienia kolor tła i centruje obraz\
+App.js wyświetla komponent MyComponent.js\
+MyComponent.js wyświetla obraz dla dwóch przypadków:\
 Gdy zostało wysłane zapytanie do API i nie przyszła jeszcze odpowiedź to wyświetla LoadingComponent.js,
-w przeciwnym wypadku wyświetla ShowQuote.js.
-W MyComponent.js poprzez kliknięcie przycisku "Wylosuj cytat" zostaje wysłane zapytanie do API z prośbą o wylosowanie cytatu jakiejś słynnej osoby.
-Gdy API zwróci cytat wyświetli się ShowQuote.js.
-Poprzez propsy MyComponent.js przekaże ShowQuote.js. cytat i autora cytatu.
-ShowQuote.js wyświetla również zdjęcie pobrane z linku, co oznacza losowanie.
-W LoadingComponent.js jest napis "ładowanie..."
+w przeciwnym wypadku wyświetla ShowQuote.js.\
+W MyComponent.js poprzez kliknięcie przycisku "Wylosuj cytat" zostaje wysłane zapytanie do API z prośbą o wylosowanie cytatu jakiejś słynnej osoby.\
+Gdy API zwróci cytat wyświetli się ShowQuote.js.\
+Poprzez propsy MyComponent.js przekaże ShowQuote.js. cytat i autora cytatu.\
+ShowQuote.js wyświetla również zdjęcie pobrane z linku, co oznacza losowanie.\
+W LoadingComponent.js jest napis "ładowanie..."\
 
 
 
